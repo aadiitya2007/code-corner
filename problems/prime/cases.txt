@@ -2,10 +2,13 @@
 3 | prime
 17 | prime
 20 | not prime
+0 | not prime
 1 | not prime
+4 | not prime
 15 | not prime
 9 | not prime
 25 | not prime
+1000000000 | not prime
 999999937 | prime
 999999929 | prime
 999999893 | prime
